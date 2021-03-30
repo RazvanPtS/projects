@@ -1,0 +1,4 @@
+repository=pickle
+pbooks=pbooks.pkl
+pclients=pclients.pkl
+prentals=prentals.pkl

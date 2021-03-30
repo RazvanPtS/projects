@@ -1,0 +1,9 @@
+memory
+
+
+
+//////
+file
+path1
+path2
+//////
